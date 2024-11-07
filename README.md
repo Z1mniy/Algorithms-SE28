@@ -963,7 +963,7 @@ O(n) - для массива
 
 ### counting sort
 по времени:
-O(1)
+O(n)
 по памяти:
 O(n)
 ### radix sort
